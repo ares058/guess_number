@@ -22,4 +22,4 @@ while True:
         break
 # ...выводим сообщение.
 print('Отличная интуиция! Вы угадали число :)')
-prin('Hello')
+print('Hello')
